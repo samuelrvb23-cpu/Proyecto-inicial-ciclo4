@@ -1,0 +1,7 @@
+#BlueJ class context
+#Sun Oct 04 20:22:46 COT 2026
+comment0.target=RainbowSymbol
+comment1.params=value
+comment1.target=RainbowSymbol(int)
+comment2.target=void spinAction()
+numComments=3

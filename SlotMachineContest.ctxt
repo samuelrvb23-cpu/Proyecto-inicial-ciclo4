@@ -1,0 +1,14 @@
+#BlueJ class context
+#Sun Oct 04 21:04:45 COT 2026
+comment0.target=SlotMachineContest
+comment0.text=\r\n Solver oficial para la maraton de la SlotMachine.\r\n Cumple al 100% con los requisitos de Testing Tool\:\r\n Solo utiliza SlotMachine(n), spin(wheel, steps) y distinctSymbols().\r\n
+comment1.params=n
+comment1.target=int solve(int)
+comment1.text=\r\n Resuelve el juego manteniendo la maquina invisible.\r\n \r\n @param n cantidad de ruedas y simbolos\r\n @return cantidad total de movimientos realizados\r\n
+comment2.params=n
+comment2.target=int simulate(int)
+comment2.text=\r\n Resuelve el juego mostrando la maquina durante el proceso.\r\n \r\n @param n cantidad de ruedas y simbolos\r\n @return cantidad total de movimientos realizados\r\n
+comment3.params=machine n
+comment3.target=int resolver(SlotMachine, int)
+comment3.text=\r\n Algoritmo de optimizacion guiado por el gradiente de distinctSymbols().\r\n Recorre rueda por rueda probando sus rotaciones y fijando la que reduzca los simbolos distintos.\r\n
+numComments=4

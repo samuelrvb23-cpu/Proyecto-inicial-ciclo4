@@ -1,0 +1,20 @@
+#BlueJ class context
+#Sun Oct 04 20:22:46 COT 2026
+comment0.target=Symbol
+comment0.text=\r\n Clase base Symbol para el manejo de los s\u00EDmbolos en las ruedas de la SlotMachine.\r\n \r\n @Samuel Ricardo Rojas Barrag\u00E1n\r\n @Juan Miguel Nope Ascencio\r\n @version 4.0 (2026)\r\n
+comment1.params=color value
+comment1.target=Symbol(java.lang.String, int)
+comment1.text=\r\n Constructor para objetos de la clase Symbol.\r\n
+comment2.target=java.lang.String getColor()
+comment3.params=color
+comment3.target=void setColor(java.lang.String)
+comment4.target=int getValue()
+comment5.params=value
+comment5.target=void setValue(int)
+comment6.target=boolean isVisible()
+comment7.params=visible
+comment7.target=void setVisible(boolean)
+comment8.target=int getSize()
+comment9.target=void spinAction()
+comment9.text=\r\n M\u00E9todo que se ejecuta en cada giro de la rueda.\r\n Permite que los s\u00EDmbolos especiales modifiquen su estado din\u00E1micamente.\r\n
+numComments=10

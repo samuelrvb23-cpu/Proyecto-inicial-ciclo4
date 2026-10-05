@@ -1,0 +1,19 @@
+#BlueJ class context
+#Sun Oct 04 22:18:43 COT 2026
+comment0.target=SlotMachineCC4test
+comment1.target=void setUp()
+comment2.target=void shouldAddSymbolsOfEveryType()
+comment2.text=\r\n Verifica que se puedan agregar s\u00EDmbolos de los tres tipos.\r\n
+comment3.target=void shouldRebelWheelRefuseLockSwapAndDelete()
+comment3.text=\r\n Verifica que la rueda rebel no se deje bloquear, intercambiar\r\n ni eliminar, y que la m\u00E1quina quede igual despu\u00E9s de intentarlo.\r\n
+comment4.target=void shouldSpinMachineWithEveryWheelAndSymbolType()
+comment4.text=\r\n Verifica que la m\u00E1quina funcione con los tres tipos de rueda y los\r\n tres tipos de s\u00EDmbolo a la vez\: todos los giros son exitosos y la\r\n lefty copia siempre a la rueda de su izquierda.\r\n
+comment5.target=void acordingCaPpShouldNotSwapRebelWheel()
+comment5.text=\r\n GRUPO 6\: Ca\u00F1\u00F3nA - P\u00E1ezP\r\n
+comment6.target=void acordingCaPpShouldNotDeleteRebelWheelbutShouldDeleteNormalWheel()
+comment7.target=void gomRojLeftyDeberiaCopiarALaRuedaNormalDeSuIzquierda()
+comment7.text=\r\n GRUPO 4\: G\u00F3mez - Rojas (SlotMachineCC4Test)\r\n
+comment8.target=void gomRojRebelNoDeberiaBloquearseIntercambiarseNiEliminarse()
+comment9.target=void gomRojShyInvisibleNoDeberiaAportarColorAlJackpot()
+comment9.text=\r\n Por que no va a pasar la prueba  \r\n Esta prueba no pasa porque nuestra arquitectura de ShySymbol alterna un indicador \r\n booleano interno (`isVisible`) para el dibujado gr\u00E1fico, pero el m\u00E9todo de negocio \r\n `configuration()` siempre retorna el color real del s\u00EDmbolo activo (`getVisibleSymbol().getColor()`), \r\n por lo que nunca evaluar\u00E1 una cadena vac\u00EDa `""`.\r\n
+numComments=10

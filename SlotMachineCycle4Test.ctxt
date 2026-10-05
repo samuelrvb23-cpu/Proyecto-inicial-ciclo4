@@ -1,0 +1,18 @@
+#BlueJ class context
+#Sun Oct 04 20:49:49 COT 2026
+comment0.target=SlotMachineCycle4Test
+comment0.text=\r\n Suite unificada de pruebas para el Ciclo 4 (Robustez, Avanzadas y Reglas Especiales).\r\n Agrupa todas las validaciones de ruedas, s\u00EDmbolos, excepciones y l\u00EDmites de la SlotMachine.\r\n
+comment1.target=void setUp()
+comment10.target=void testSpinSpecificSymbolsArrayOkAndFail()
+comment11.target=void testDeleteSymbolEdgeCases()
+comment12.target=void testJackpotAndDistinctSymbolsLogic()
+comment13.target=void testAdvancedWheelSwapAndRebelInteraction()
+comment2.target=void testAddSpecialWheelsOk()
+comment3.target=void testAddWheelInvalidPosition()
+comment4.target=void testRebelWheelConstraints()
+comment5.target=void testAddSpecialSymbols()
+comment6.target=void testAddSymbolInvalidWheel()
+comment7.target=void testLeftyWheelBehavior()
+comment8.target=void testSpinSpecialSymbolsActions()
+comment9.target=void testSymbolsAndConfigurationArrays()
+numComments=14

@@ -1,0 +1,10 @@
+#BlueJ class context
+#Sun Oct 04 20:22:46 COT 2026
+comment0.target=LeftyWheel
+comment1.params=initialSymbols x y leftWheel
+comment1.target=LeftyWheel(java.util.ArrayList, int, int, Wheel)
+comment2.target=java.lang.String getframeColor()
+comment3.params=left
+comment3.target=void setLeftWheel(Wheel)
+comment4.target=void spin()
+numComments=5

@@ -1,0 +1,35 @@
+#BlueJ class context
+#Sun Oct 04 20:22:46 COT 2026
+comment0.target=Wheel
+comment0.text=\r\n Clase base Wheel para el manejo de las ruedas de la SlotMachine.\r\n \r\n @Samuel Ricardo Rojas Barrag\u00E1n\r\n @Juan Miguel Nope Ascencio\r\n
+comment1.params=initialSymbols x y
+comment1.target=Wheel(java.util.ArrayList, int, int)
+comment10.params=color
+comment10.target=void addSymbol(java.lang.String)
+comment11.params=symbol
+comment11.target=void addSymbol(Symbol)
+comment12.params=color
+comment12.target=boolean delSymbol(java.lang.String)
+comment13.params=color
+comment13.target=boolean containsSymbol(java.lang.String)
+comment14.target=void updatevisualSymbol()
+comment15.target=int getSymbolCount()
+comment16.params=color
+comment16.target=boolean placesymbol(java.lang.String)
+comment17.target=void spin()
+comment17.text=\r\n M\u00E9todo spin virtual/polim\u00F3rfico para ser sobrescrito en las ruedas hijas.\r\n
+comment18.target=Symbol getVisibleSymbol()
+comment19.target=java.lang.String[] getSymbolsArray()
+comment2.target=void initvisuals()
+comment20.target=void lock()
+comment21.target=void unlock()
+comment22.target=boolean islocked()
+comment3.target=java.lang.String getframeColor()
+comment4.params=newX newY
+comment4.target=void movewheel(int, int)
+comment5.target=boolean canBeLocked()
+comment6.target=boolean canBeDeleted()
+comment7.target=boolean canBeSwapped()
+comment8.target=void makeVisible()
+comment9.target=void makeInvisible()
+numComments=23

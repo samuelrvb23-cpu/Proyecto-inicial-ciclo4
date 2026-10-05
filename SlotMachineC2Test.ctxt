@@ -1,0 +1,14 @@
+#BlueJ class context
+#Sun Oct 04 20:50:14 COT 2026
+comment0.target=SlotMachineC2Test
+comment1.target=void setUp()
+comment10.target=void testJackpot()
+comment2.target=void testeswapOk()
+comment3.target=void testswapFail()
+comment4.target=void testLockOk()
+comment5.target=void testlockfail()
+comment6.target=void testSpinOk()
+comment7.target=void testspinfail()
+comment8.target=void testSpinconfigOk()
+comment9.target=void testSpinconfigFail()
+numComments=11

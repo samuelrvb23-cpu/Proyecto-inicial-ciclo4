@@ -1,0 +1,10 @@
+#BlueJ class context
+#Sun Oct 04 21:04:44 COT 2026
+comment0.target=SlotMachineContestTest
+comment0.text=\r\n The test class SlotMachineContestTest.\r\n
+comment1.target=void setup()
+comment2.target=void testSimulate()
+comment3.target=void testSolve()
+comment4.target=void testSolvePositive()
+comment5.target=void testSimulatePositive()
+numComments=6

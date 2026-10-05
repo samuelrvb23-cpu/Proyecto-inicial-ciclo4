@@ -1,0 +1,8 @@
+#BlueJ class context
+#Sun Oct 04 20:22:46 COT 2026
+comment0.target=EphemeralSymbol
+comment1.params=color value
+comment1.target=EphemeralSymbol(java.lang.String, int)
+comment2.target=void spinAction()
+comment3.target=int getSize()
+numComments=4
